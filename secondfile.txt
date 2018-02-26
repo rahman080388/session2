@@ -1,2 +1,3 @@
 "my second file"  
 "second line for the second file" 
+"fourth line" 
